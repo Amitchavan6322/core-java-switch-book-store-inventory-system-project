@@ -1,5 +1,5 @@
-# core-java-switch-book-store-inventory-system-project
-switch-booking-management-project
+# core-java-switch-book-store-inventory-system-project  
+switch-book-inventory-system-project
 
 Project Overview
 The Core Java switch Booking Management Project is a basic Java application that demonstrates a booking management system. It utilizes object-oriented programming principles and simulates the interactions between customers, delivery agents, restaurants, and orders.
