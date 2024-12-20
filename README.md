@@ -26,7 +26,7 @@ The Core Java switch book store inventory system project is Java application tha
 * Locate Main.java.
 * Run the file to start the application.
 
-# Packages Structure  
+# Package Structure  
 * com.amit.book.inventory: Contains the main application logic (BookStoreInventorySystem.java).
 * com.amit.book.inventory.model: Includes the model classes:
    * BookInfo.java
