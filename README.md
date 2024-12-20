@@ -32,7 +32,7 @@ The Core Java switch book store inventory system project is Java application tha
    * BookInfo.java
    * InventoryInfo.java
    * StoreInfo.java
-* com.amit.book.inventory.model: Includes the service classes:
+* com.amit.book.inventory.service: Includes the service classes:
    * BookService.java
    * InventoryService.java
    * StoreService.java
