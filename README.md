@@ -5,7 +5,7 @@ switch-book-inventory-system-project
 The Core Java switch book store inventory system project is Java application that demonstrates a book store inventory system. It utilizes object-oriented programming principles and simulates the interactions between book, inventory, and store.
 
 # Features  
-Manage bookings for customers and restaurants.
+* Manage bookings for customers and restaurants.
 Simulate delivery agent assignments.
 Order and customer management using Java models.
 Simple and intuitive structure for learning and demonstration.
