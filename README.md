@@ -25,23 +25,16 @@ The Core Java switch book store inventory system project is Java application tha
 * Compile and run the application:
 * Locate Main.java.
 * Run the file to start the application.
-* Code Structure
-* Packages Structure
-com.booking.using.dowhile: Contains the main application logic (BookingDemoDoWhile.java).
-com.booking.using.dowhile.model: Includes the model classes:
-Customer.java
-DeliveryAgent.java
-Order.java
-Restaurant.java
-package names: com.booking.Customer.model
-package names: com.booking.DeliveryAgent.model
-package names: com.booking.Order.model
-package names: com.booking.Restaurant.model
-package names: com.booking.BookingDemoDoWhile.service
-Functionality
-Customer
-DeliveryAgent
-Order
-Restaurant
-POJO (Plain Old Java Objects)
--Customer - (user id, name, username,monbileNo,city,area)
+
+# Packages Structure  
+* com.amit.book.inventory: Contains the main application logic (BookStoreInventorySystem.java).
+* com.amit.book.inventory.model: Includes the model classes:
+   * BookInfo.java
+   * InventoryInfo.java
+   * StoreInfo.java
+* com.amit.book.inventory.model: Includes the service classes:
+   * BookService.java
+   * InventoryService.java
+   * StoreService.java
+     
+
