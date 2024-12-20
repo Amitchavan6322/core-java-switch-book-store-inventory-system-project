@@ -11,20 +11,22 @@ The Core Java switch book store inventory system project is Java application tha
 
   
 # Installation and Setup  
-Prerequisites
-Java Development Kit (JDK) 21.
-An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
-Git (optional, for version control).
-Steps
-Clone the repository:
-Navigate to the project directory:
-cd core-java-if-booking-project
-Open the project in your preferred IDE.
-Compile and run the application:
-Locate Main.java.
-Run the file to start the application.
-Code Structure
-Packages Structure
+* Prerequisites
+* Java Development Kit (JDK) 21.
+* An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
+* Git (optional, for version control).
+
+  
+# Steps  
+* Clone the repository:
+* Navigate to the project directory:
+* cd core-java-switch-book-store-inventory-system-project
+* Open the project in your preferred IDE.
+* Compile and run the application:
+* Locate Main.java.
+* Run the file to start the application.
+* Code Structure
+* Packages Structure
 com.booking.using.dowhile: Contains the main application logic (BookingDemoDoWhile.java).
 com.booking.using.dowhile.model: Includes the model classes:
 Customer.java
